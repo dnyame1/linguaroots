@@ -65,6 +65,6 @@ never quite got translated. LinguaRoots exists to close that gap.
 
 ## Developer
 
-Built by Danielle Nyame — Computer Science @ UT Austin, class of 2029.  
+Built by Danielle Nyame — Computer Science @ UT Austin
 [LinkedIn](https://www.linkedin.com/in/danielle-nyame) · 
 [Portfolio](https://danielle-nyame.vercel.app)
